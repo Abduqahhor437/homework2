@@ -1,23 +1,47 @@
 export const LINKS = [
     {
-        title: "Home",
-        link: "/home"
+        title: "Store",
+        link: "/store"
     },
     {
-        title: "Product",
-        link: "/product"
+        title: "Mac",
+        link: "/Mac"
     },
     {
-        title: "Pricing",
-        link: "/pricing"
+        title: "iPad",
+        link: "/ipad"
     },
     {
-        title: "Testimonials",
-        link: "/testimonials"
+        title: "iPhone",
+        link: "/iphone"
     },
     {
-        title: "Contact us",
-        link: "/contact us"
+        title: "Watch",
+        link: "/watch"
+    },
+    {
+        title: "Vision",
+        link: "/vision"
+    },
+    {
+        title: "AirPods",
+        link: "/airpods"
+    },
+    {
+        title: "TV & Home",
+        link: "/tv & home"
+    },
+    {
+        title: "Entertainment",
+        link: "/entertainment"
+    },
+    {
+        title: "Accessories",
+        link: "/accessories"
+    },
+    {
+        title: "Support",
+        link: "/support"
     }
 ]
 
